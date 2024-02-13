@@ -486,10 +486,7 @@
       "id": 1,
       "name": "شعبه اکباتان",
       "address": "شهرک اکباتان، فاز ۳، مجتمع تجاری کوروش، طبقه سوم",
-      "phoneNumber": [
-        "۰۲۱-۳۳۵۳۵۳۵۴",
-        "۰۲۱-۳۳۵۳۵۳۵۶"
-      ],
+      "phoneNumber": ["۰۲۱-۳۳۵۳۵۳۵۴", "۰۲۱-۳۳۵۳۵۳۵۶"],
       "timeActivity": "همه‌روزه از ساعت ۱۲  الی ۲۳ ",
       "image": "https://i.ibb.co/349TT3Z/branch-ekbatan.jpg",
       "comments": [
@@ -531,10 +528,7 @@
       "id": 2,
       "name": "شعبه چالوس",
       "address": "چالوس، خیابان ۱۷ شهریور، بعد کوچه کوروش، جنب داروخانه دکتر میلانی",
-      "phoneNumber": [
-        "۰۲۱-۳۳۵۳۵۳۵۴",
-        "۰۲۱-۳۳۵۳۵۳۵۶"
-      ],
+      "phoneNumber": ["۰۲۱-۳۳۵۳۵۳۵۴", "۰۲۱-۳۳۵۳۵۳۵۶"],
       "timeActivity": "همه‌روزه از ساعت ۱۲  الی ۲۳ ",
       "image": "https://i.ibb.co/P9Bh1cW/branch-chalos.jpg"
     },
@@ -542,10 +536,7 @@
       "id": 3,
       "name": "شعبه اقدسیه",
       "address": "خیابان اقدسیه ، نرسیده به میدان خیام، پلاک ۸",
-      "phoneNumber": [
-        "۰۲۱-۳۳۵۳۵۳۵۴",
-        "۰۲۱-۳۳۵۳۵۳۵۶"
-      ],
+      "phoneNumber": ["۰۲۱-۳۳۵۳۵۳۵۴", "۰۲۱-۳۳۵۳۵۳۵۶"],
       "timeActivity": "همه‌روزه از ساعت ۱۲  الی ۲۳ ",
       "image": "https://i.ibb.co/0MbYsYm/branch-aghdasieh.jpg"
     },
@@ -553,10 +544,7 @@
       "id": 4,
       "name": "شعبه ونک",
       "address": "میدان ونک، خیابان فردوسی، نبش کوچه نیلوفر، پلاک ۲۶",
-      "phoneNumber": [
-        "۰۲۱-۳۳۵۳۵۳۵۴",
-        "۰۲۱-۳۳۵۳۵۳۵۶"
-      ],
+      "phoneNumber": ["۰۲۱-۳۳۵۳۵۳۵۴", "۰۲۱-۳۳۵۳۵۳۵۶"],
       "timeActivity": "همه‌روزه از ساعت ۱۲  الی ۲۳ ",
       "image": "https://i.ibb.co/hLPcfzs/branch-vanak.png"
     }
@@ -564,65 +552,37 @@
   "users": [
     {
       "name": "محسن",
-      "phone": "09369611111",
+      "phone": "09999999999",
       "email": "mohsen@gmail.com",
       "birthYear": "5/30/1996",
       "username": "",
       "id": 1
-    },
-    {
-      "name": "mohsen",
-      "phone": "09999999999",
-      "email": "",
-      "birthYear": "1/30/2024",
-      "username": "",
-      "id": 2
-    },
-    {
-      "name": "محسن",
-      "phone": "09369611112",
-      "email": "",
-      "birthYear": "",
-      "username": "",
-      "id": 3
     }
   ],
   "address": [
     {
       "userId": 1,
       "address": {
-        "title": "خونه",
+        "title": "خانه",
         "isMyDelivery": true,
         "name": "محسن",
-        "myPhone": "09369611111",
-        "address": "اصفهان - اصفهان"
+        "myPhone": "09999999999",
+        "address": "اصفهان: خیابان شریعتی - کوچه اول - بن بست دوم"
       },
       "id": 1
     },
     {
-      "userId": 2,
-      "address": {
-        "title": "home",
-        "isMyDelivery": true,
-        "name": "mohsen",
-        "myPhone": "09999999999",
-        "address": "isfahan - isfahan"
-      },
-      "id": 2
-    },
-    {
       "userId": 1,
       "address": {
-        "title": "home",
+        "title": "محل کار",
         "isMyDelivery": true,
         "name": "محسن",
-        "myPhone": "09369611111",
-        "address": "esfahan - esfahan\n"
+        "myPhone": "09999999999",
+        "address": "اصفهان: خیابان شریعتی - کوچه دوم - بن بست اول"
       },
-      "id": 3
+      "id": 2
     }
   ],
-  "favorite": [],
   "orders": [
     {
       "userId": 1,
